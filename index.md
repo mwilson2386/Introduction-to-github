@@ -1,9 +1,4 @@
 # <H1>
-# <H2>
-# <H3>
-# <H4>
-# <H5>
-# <H6>
 
 I have added headers to this document. 
 
